@@ -53,24 +53,43 @@ I’m a cybersecurity and AI enthusiast who thrives on challenging systems and b
 ## 🚀 Highlighted Projects
 
 <div align="center">
-  <a href="https://github.com/ubvc04/Intrusion-Detection-System"><img src="https://img.shields.io/badge/Intrusion%20Detection-System-blue?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/Threat-Detection"><img src="https://img.shields.io/badge/Threat-Detection-red?style=for-the-badge&logo=windows&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/Complaint-Management-System-"><img src="https://img.shields.io/badge/Complaint-Management-System-yellow?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/Smart-Attendance-System"><img src="https://img.shields.io/badge/Smart-Attendance-System-orange?style=for-the-badge&logo=flask&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/spam-detection-system"><img src="https://img.shields.io/badge/Spam-Detection-System-green?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/Brain-Tumor-Detection"><img src="https://img.shields.io/badge/Brain-Tumor-Detection-purple?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/SkinDisease-AI"><img src="https://img.shields.io/badge/SkinDisease-AI-pink?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/SignLang-AI"><img src="https://img.shields.io/badge/SignLang-AI-blueviolet?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/Word-Prediction-System"><img src="https://img.shields.io/badge/Word-Prediction-System-lightgrey?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/Document-Summarizer"><img src="https://img.shields.io/badge/Document-Summarizer-red?style=for-the-badge&logo=css3&logoColor=white" />
-  <p align="center">
-  <a href="https://github.com/ubvc04/Intrusion-Detection-System"><img src="https://img.shields.io/badge/INTRUSION%20DETECTION-Python-blue?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/Threat-Detection"><img src="https://img.shields.io/badge/THREAT-DETECTION-red?style=for-the-badge&logo=windows&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/Smart-Attendance-System"><img src="https://img.shields.io/badge/SMART-ATTENDANCE-orange?style=for-the-badge&logo=flask&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/SkinDisease-AI"><img src="https://img.shields.io/badge/SKINDISEASE-AI-pink?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/SignLang-AI"><img src="https://img.shields.io/badge/SIGNLANG-AI-purple?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/ubvc04/Document-Summarizer"><img src="https://img.shields.io/badge/DOCUMENT-SUMMARIZER-red?style=for-the-badge&logo=css3&logoColor=white" /></a>
-</p>
+  <!-- Security Projects -->
+  <a href="https://github.com/ubvc04/Intrusion-Detection-System">
+    <img src="https://img.shields.io/badge/Intrusion%20Detection-System-blue?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/ubvc04/Threat-Detection">
+    <img src="https://img.shields.io/badge/Threat-Detection-red?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+  <a href="https://github.com/ubvc04/Complaint-Management-System-">
+    <img src="https://img.shields.io/badge/Complaint-Management-System-yellow?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+
+  <!-- AI / ML Projects -->
+  <a href="https://github.com/ubvc04/Spam-Detection-System">
+    <img src="https://img.shields.io/badge/Spam-Detection-System-green?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/ubvc04/Brain-Tumor-Detection">
+    <img src="https://img.shields.io/badge/Brain-Tumor-Detection-purple?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/ubvc04/SkinDisease-AI">
+    <img src="https://img.shields.io/badge/SkinDisease-AI-pink?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/ubvc04/SignLang-AI">
+    <img src="https://img.shields.io/badge/SignLang-AI-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+
+  <!-- Other Projects -->
+  <a href="https://github.com/ubvc04/Word-Prediction-System">
+    <img src="https://img.shields.io/badge/Word-Prediction-System-lightgrey?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://github.com/ubvc04/Document-Summarizer">
+    <img src="https://img.shields.io/badge/Document-Summarizer-red?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://github.com/ubvc04/Smart-Attendance-System">
+    <img src="https://img.shields.io/badge/Smart-Attendance-System-orange?style=for-the-badge&logo=flask&logoColor=white" />
+  </a>
+</div>
+
 
   
   

@@ -16,32 +16,7 @@
 
 ---
 
-## 🎯 **About Me**
 
-```python
-class CyberSentinel:
-    def __init__(self):
-        self.alias = "Cyber Sentinel"
-        self.role = "Cybersecurity Specialist & AI/ML Security Researcher"
-        self.location = "Pudukkottai, Tamil Nadu, India 🇮🇳"
-        self.expertise = [
-            "Advanced Threat Detection & Hunting",
-            "Intrusion Detection & Prevention Systems",
-            "AI/ML Security & Adversarial ML",
-            "Face Recognition & Biometric Security",
-            "Malware Analysis & Reverse Engineering",
-            "Web Application Penetration Testing",
-            "Full Stack Secure Development"
-        ]
-        self.current_focus = "Building next-gen intelligent security systems"
-        self.mindset = "Offense teaches defense"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build a secure digital future together! 🚀")
-
-sentinel = CyberSentinel()
-sentinel.say_hi()
-```
 
 <div align="center">
 
